@@ -1,4 +1,4 @@
-## Cell Image Color-Detection
+## Cell Image Color Detection
 
 Efficient and accurate color detection has been an important topic in the advancement of computer vision systems. 'Color detection' is the process of detecting color and display names for the respective color. 'Cell Color detection' plays a vital role in detecting the color of the cell, which is not visible by the human eye.
 
